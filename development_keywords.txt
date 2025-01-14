@@ -1,0 +1,14 @@
+and — und
+as — als
+do — tue
+else — ansonsten
+for — für
+for each — für jedes
+function — Funktion
+from — von
+if — falls
+import — importiere
+loop — Schleife
+or — oder
+use — nutze
+while — während

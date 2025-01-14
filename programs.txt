@@ -1,0 +1,31 @@
+Audacity — Unverschämtheit
+Bitwarden — Bitwächter
+Blender — Mixer
+Brave — Tapfer
+Chromium — Chrom
+Discord — Dissonanz
+Dropbox — Ablagenkiste
+Eclipse — Finsternis
+Edge — Kante
+EpicGames — Epische Spiele
+EpicLauncher — Epischer Starter
+Explorer — Erkunder
+FileZilla — Dateizilla
+Firefox — Feuerfuchs
+LibreOffice — Freies Büro
+MySQL — MeinSQL
+Notepad — Notizblock
+OneNote — Eine Notiz
+OpenOffice — Offenes Büro
+Opera — Oper
+Paint.NET — Malen.NETZ
+PowerPoint — Kraftpunkt
+Steam — Dampf
+Task Manager — Aufgabenverwalter
+TeamSpeak 3 — Gruppensprech 3
+TeamViewer 15 — Gruppenschauer 15
+Thunderbird — Donnervogel
+Visual Studio — Visuelles Studio
+WhatsApp — Was ist Applikation
+Word — Wort
+Zoom — Vergrößern
